@@ -1,4 +1,4 @@
-@[TOC](Excel练习题目大全)
+Excel练习题目大全
 
 [Excel练习素材大全[excel操作基础练习 excel图表制作练习 excel函数练习 excel数据透视练习 excel综合练习操作_讲解 excel快捷键讲解大全\]](https://editor.csdn.net/md/?articleId=144946889)
 
